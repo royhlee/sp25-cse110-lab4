@@ -1,9 +1,9 @@
-1\. citylots.json
-2\. expose.js
-3\. 777713 bytes, resource size: 11.7mb
-4\. 61ms
-5\. Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-6\. GitHub.com
-7\. Thu, 15 Sep 2022 22:44:30 GMT
-8\. application/json; charset=utf-8
-9\. fetchData @ expose.js:4
+1\. citylots.json <br>
+2\. expose.js <br>
+3\. 777713 bytes, resource size: 11.7mb <br>
+4\. 61ms <br>
+5\. Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 <br>
+6\. GitHub.com <br>
+7\. Thu, 15 Sep 2022 22:44:30 GMT <br>
+8\. application/json; charset=utf-8 <br>
+9\. fetchData @ expose.js:4 <br>
