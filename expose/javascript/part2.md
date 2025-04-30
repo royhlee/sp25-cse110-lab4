@@ -8,7 +8,7 @@
 8. Nothing will be outputted since there is no console.log to print out any values, there are also no errors.
 9. ReferenceError i is not defined, let is block scoped therefore i will not be defined outside of the for loop block.
 10. It will print 3, the size of the array for prices is 3 and it will count the length of the array.
-11. Nothing will be printed because there is no console.log to print out any balues, there are also no errors. \
+11. Nothing will be printed because there is no console.log to print out any balues, there are also no errors.\
 12 A. student.name\
 12 B. student["Grad Year"]\
 12 C. student.greeting()\
