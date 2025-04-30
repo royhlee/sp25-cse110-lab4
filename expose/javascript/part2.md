@@ -1,13 +1,13 @@
-1\. It will print 3, the loop will iterate through 100,200,300 reaching i = 3 printing 3.
-2\. It will print 150, i will equal 300 since it is in the 2 spot of the array and going through the discountedPrices function it will assign discountedPrice to 150.
-3\. It will print 150, final price is just the discounted price (150) * 100 then dividing that by 100 printing 150.
-4\. There will be nothing printed because there is no console.log to print out any values, but there is also no errors.
-5\. ReferenceError i is not defined, i is defined in the for loop and because let is block scoped after the for loop it cannot be accessed.
-6\. ReferenceError similar to the last question discountedPrice is only accessible inside of the for loop block.
-7\. It will print 150, let finalPrice is defined in the function making it function scoped therefore it is able to run through the for loop and give an output.
-8\. Nothing will be outputted since there is no console.log to print out any values, there are also no errors.
-9\. ReferenceError i is not defined, let is block scoped therefore i will not be defined outside of the for loop block.
-10\. It will print 3, the size of the array for prices is 3 and it will count the length of the array.
+1\. It will print 3, the loop will iterate through 100,200,300 reaching i = 3 printing 3. <br>
+2\. It will print 150, i will equal 300 since it is in the 2 spot of the array and going through the discountedPrices function it will assign discountedPrice to 150. <br>
+3\. It will print 150, final price is just the discounted price (150) * 100 then dividing that by 100 printing 150. <br>
+4\. There will be nothing printed because there is no console.log to print out any values, but there is also no errors. <br>
+5\. ReferenceError i is not defined, i is defined in the for loop and because let is block scoped after the for loop it cannot be accessed. <br>
+6\. ReferenceError similar to the last question discountedPrice is only accessible inside of the for loop block. <br>
+7\. It will print 150, let finalPrice is defined in the function making it function scoped therefore it is able to run through the for loop and give an output. <br>
+8\. Nothing will be outputted since there is no console.log to print out any values, there are also no errors. <br>
+9\. ReferenceError i is not defined, let is block scoped therefore i will not be defined outside of the for loop block. <br>
+10\. It will print 3, the size of the array for prices is 3 and it will count the length of the array. <br>
 11\. Nothing will be printed because there is no console.log to print out any balues, there are also no errors. <br>
 12 A. student.name <br>
 12 B. student["Grad Year"] <br>
@@ -28,6 +28,6 @@
 14 D. false, === checks both the value and the type therefore it will return false <br>
 14 E. false, true is equal to 1 and 1 does not equal 2 <br>
 14 F. true, the boolean value 2 is nonzero which makes it true <br>
-15\. == compares two values which can also redefine the type to make equality match while, === strictly checks both the value's type and value
-17\. The output would be [ 2, 4, 6 ], modifyArray takes an array and a callback which then iterates through the for loop and pushes it to the newArr which is returned, doSomething just multiplies a number by 2 which is done to the array which is entered in modifyArray and the new values from doSomething are stored in the new array made in modifyArray.
-18\. 1 4 3 2
+15\. == compares two values which can also redefine the type to make equality match while, === strictly checks both the value's type and value <br>
+17\. The output would be [ 2, 4, 6 ], modifyArray takes an array and a callback which then iterates through the for loop and pushes it to the newArr which is returned, doSomething just multiplies a number by 2 which is done to the array which is entered in modifyArray and the new values from doSomething are stored in the new array made in modifyArray. <br>
+18\. 1 4 3 2 <br>
